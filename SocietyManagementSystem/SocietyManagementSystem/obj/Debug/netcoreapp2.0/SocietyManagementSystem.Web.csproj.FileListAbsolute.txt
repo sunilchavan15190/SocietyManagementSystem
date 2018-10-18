@@ -1,0 +1,11 @@
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\bin\Debug\netcoreapp2.0\SocietyManagementSystem.Web.deps.json
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\bin\Debug\netcoreapp2.0\SocietyManagementSystem.Web.runtimeconfig.json
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\bin\Debug\netcoreapp2.0\SocietyManagementSystem.Web.runtimeconfig.dev.json
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\bin\Debug\netcoreapp2.0\SocietyManagementSystem.Web.dll
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\bin\Debug\netcoreapp2.0\SocietyManagementSystem.Web.pdb
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\obj\Debug\netcoreapp2.0\SocietyManagementSystem.Web.csprojResolveAssemblyReference.cache
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\obj\Debug\netcoreapp2.0\SocietyManagementSystem.Web.csproj.CoreCompileInputs.cache
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\obj\Debug\netcoreapp2.0\SocietyManagementSystem.Web.AssemblyInfoInputs.cache
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\obj\Debug\netcoreapp2.0\SocietyManagementSystem.Web.AssemblyInfo.cs
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\obj\Debug\netcoreapp2.0\SocietyManagementSystem.Web.dll
+E:\Learning\SocietyManagementSystem\SocietyManagementSystem\SocietyManagementSystem\obj\Debug\netcoreapp2.0\SocietyManagementSystem.Web.pdb
